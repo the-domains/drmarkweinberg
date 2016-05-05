@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DrMarkWeinberg]]></title>
+        <description><![CDATA[DrMarkWeinberg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 20:25:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c30bf4de-c4eb-4ad4-9b21-bc45e137db70.jpg">]]></description>
+            <link>undefined601-west-broadway-suite-400-vancouver-bc/index.html</link>
+            <guid isPermaLink="false">38043dc7-f562-41a1-8c6e-91ba341b882d</guid>
+            <pubDate>Thu, 05 May 2016 20:25:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
